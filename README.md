@@ -61,7 +61,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
    const apiKey = "YOUR\_API\_KEY\_HERE";
 
-   💡 Future Improvements
+   #### 💡 Future Improvements
 
    🌍 Auto-detect user location (Geolocation API)
 
@@ -71,13 +71,13 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
    ❄️ Animated weather icons
 
-   🤝 Contributing
+### 🤝 Contributing
 
    Contributions, issues, and feature requests are welcome!
 
    Feel free to fork the repo and submit a pull request.
 
-   ✨ Author
+### ✨ Author
 
    Vinayak Deore
 
