@@ -6,29 +6,26 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 🚀 Features
 
-- 🔍 Search weather by city name
-- 🌡️ Displays temperature in Celsius
-- 🌧️ Weather description and icon
-- 💧 Humidity and 🌬️ Wind speed display
-- 📱 Responsive UI for mobile and desktop
+* 🔍 Search weather by city name
+* 🌡️ Displays temperature in Celsius
+* 🌧️ Weather description and icon
+* 💧 Humidity and 🌬️ Wind speed display
+* 📱 Responsive UI for mobile and desktop
 
 ---
 
 ## 🛠 Tech Stack
 
-| Technology   | Role                   |
-|--------------|------------------------|
-| HTML         | Page structure         |
-| CSS          | Styling and layout     |
-| JavaScript   | API handling and logic |
-| OpenWeatherMap API | Weather data     |
+| Technology         | Role                   |
+| ------------------ | ---------------------- |
+| HTML               | Page structure         |
+| CSS                | Styling and layout     |
+| JavaScript         | API handling and logic |
+| OpenWeatherMap API | Weather data           |
 
 ---
 
 ## 📸 Screenshots
-
-<!-- You can upload images in your repo and reference them here -->
-<!-- Example: ![WeatherApp Screenshot](screenshots/app.png) -->
 
 ---
 
@@ -36,43 +33,52 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/Vinayakdeore09/WeatherApp.git
-cd WeatherApp
+   git clone [https://github.com/Vinayakdeore09/WeatherApp.git](https://github.com/Vinayakdeore09/WeatherApp.git)
 
-Open index.html in your browser
-You can simply double-click index.html or run a local server:
+   cd WeatherApp
 
-# If you have Python installed:
-python -m http.server
-Enter a city name in the input field and press "Search".
+   Open index.html in your browser
 
-🔑 API Configuration
-This project uses the OpenWeatherMap API.
-To make it work:
+   You can simply double-click index.html or run a local server:
 
-Go to https://openweathermap.org/api
+ 2. **If you have Python installed:**
 
-Sign up and get your free API key.
+   python -m http.server
 
-Replace the placeholder in your JavaScript file (if not already done):
+3. **Enter a city name in the input field and press "Search".**
 
-javascript
+   ### 🔑 API Configuration
 
-const apiKey = "YOUR_API_KEY_HERE";
-💡 Future Improvements
-🌍 Auto-detect user location (Geolocation API)
+   This project uses the OpenWeatherMap API.
 
-📅 5-day weather forecast
+   To make it work:
 
-🌙 Dark mode
+   Go to [https://openweathermap.org/api](https://openweathermap.org/api)
 
-❄️ Animated weather icons
+   Sign up and get your free API key.
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to fork the repo and submit a pull request.
+   Replace the placeholder in your JavaScript file (if not already done):
 
-✨ Author
-Vinayak Deore
-🔗 GitHub Profile
+   const apiKey = "YOUR\_API\_KEY\_HERE";
+
+   💡 Future Improvements
+
+   🌍 Auto-detect user location (Geolocation API)
+
+   📅 5-day weather forecast
+
+   🌙 Dark mode
+
+   ❄️ Animated weather icons
+
+   🤝 Contributing
+
+   Contributions, issues, and feature requests are welcome!
+
+   Feel free to fork the repo and submit a pull request.
+
+   ✨ Author
+
+   Vinayak Deore
+
+   🔗 GitHub Profile
